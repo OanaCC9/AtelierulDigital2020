@@ -13,16 +13,14 @@ public class Human {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
 
     public int getHealth() {
         return health;
     }
 
-    public void setHealth(int health) {
-        this.health = health;
+
+    public  void decreaseHealth(int damage){
+        health=health-damage;
     }
 
 
