@@ -1,4 +1,4 @@
-package Lab1;
+package Lab1.Teme;
 
 import java.util.Scanner;
 
@@ -28,9 +28,9 @@ public class CC4 {
                     if(isPair(j,k,x)==true)
                     {
                         contor++;
-                        a = ArrayUtils.remove(a, x);
+                        //a = ArrayUtils.remove(a, x);
                     }
-                    a = ArrayUtils.remove(a, x);
+                    //a = ArrayUtils.remove(a, x);
                 }
             }
         }

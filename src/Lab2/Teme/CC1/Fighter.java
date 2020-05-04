@@ -1,4 +1,4 @@
-package Lab2.CC1;
+package Lab2.Teme.CC1;
 
 import java.util.Objects;
 

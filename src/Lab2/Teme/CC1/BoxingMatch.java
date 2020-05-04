@@ -1,4 +1,4 @@
-package Lab2.CC1;
+package Lab2.Teme.CC1;
 
 public class BoxingMatch {
     private Fighter f1;

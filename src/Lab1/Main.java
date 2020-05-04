@@ -1,5 +1,7 @@
 package Lab1;
 
+import Lab1.Teme.CC2;
+
 public class Main {
     private static int semster=2; //instanta de clasa/ var de clasa
     private int instanceVar=3; // var de instanta unica pt toate instantele clasei

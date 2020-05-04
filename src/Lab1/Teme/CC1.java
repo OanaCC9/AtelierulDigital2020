@@ -1,4 +1,4 @@
-package Lab1;
+package Lab1.Teme;
 
 public class CC1 {
     public static void main(String[] args) {

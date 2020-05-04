@@ -1,4 +1,4 @@
-package Lab1;
+package Lab1.Teme;
 
 public class CC2 {
     public static int check(int number, int digit)

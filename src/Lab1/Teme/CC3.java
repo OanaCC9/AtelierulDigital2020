@@ -1,7 +1,7 @@
-package Lab1;
+package Lab1.Teme;
 
 import java.util.Scanner;
-import org.apache.commons.lang.ArrayUtils;
+//import org.apache.commons.lang.ArrayUtils;
 
 
 public class CC3 {
@@ -28,7 +28,7 @@ public class CC3 {
                 if(isPair(j,k)==true)
                 {
                     contor++;
-                    a = ArrayUtils.remove(a, k);
+                    //a = ArrayUtils.remove(a, k);
                 }
             }
         }

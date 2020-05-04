@@ -1,4 +1,7 @@
-package Lab2.CC1;
+package Lab2.Teme.CC1;
+
+import Lab2.Teme.CC1.BoxingMatch;
+import Lab2.Teme.CC1.Fighter;
 
 public class Main {
     public static void main(String[] args) {
